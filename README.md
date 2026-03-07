@@ -11,6 +11,9 @@
 Building mobile apps with Flutter and creating data-driven solutions.
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Flutter+Developer;Python+Developer;Web+Automation;Web+Scraping;Data+Analysis;Building+Useful+Software" />
+</p>
 ---
 
 ## 🚀 About Me
@@ -31,14 +34,20 @@ Building mobile apps with Flutter and creating data-driven solutions.
 
 ### Programming
 ![Python](https://skillicons.dev/icons?i=python)
+![Dart](https://skillicons.dev/icons?i=dart)
+
+### Back-End
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Flask](https://skillicons.dev/icons?i=flask)
 
 ### Data
-![PowerBI](https://skillicons.dev/icons?i=postgres)
+![Postgres](https://skillicons.dev/icons?i=postgres)
 ![SQL](https://skillicons.dev/icons?i=mysql)
 
 ### Tools
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
@@ -82,12 +91,12 @@ Building mobile apps with Flutter and creating data-driven solutions.
 
 <p align="left">
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/mohammed-waleed-51b609141/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your_email@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:m.elsherbeny100@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
