@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mohamed Waleed</h1>
 
 <p align="center">
-  <img src="images/my_profile.png" width="170" style="border-radius:50%">
+  <img src="images/my_profile.png" width="170">
 </p>
 
 
