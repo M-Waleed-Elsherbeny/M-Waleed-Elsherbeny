@@ -14,7 +14,7 @@ Building mobile apps with Flutter and creating data-driven solutions.
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Flutter+Developer;Python+Developer;Web+Automation;Web+Scraping;Data+Analysis;Building+Useful+Software" />
 </p>
----
+
 
 ## 🚀 About Me
 
@@ -38,16 +38,20 @@ Building mobile apps with Flutter and creating data-driven solutions.
 
 ### Back-End
 ![Firebase](https://skillicons.dev/icons?i=firebase)
+![Supabase](https://skillicons.dev/icons?i=supabase)
 ![Flask](https://skillicons.dev/icons?i=flask)
+![FastApi](https://skillicons.dev/icons?i=fastapi)
 
 ### Data
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![SQL](https://skillicons.dev/icons?i=mysql)
+![Sqlite](https://skillicons.dev/icons?i=sqlite)
 
 ### Tools
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Postman](https://skillicons.dev/icons?i=postman)
+![Selenium](https://skillicons.dev/icons?i=selenium)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
