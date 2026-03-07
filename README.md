@@ -57,7 +57,7 @@ Building mobile apps with Flutter and creating data-driven solutions.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -69,7 +69,7 @@ Building mobile apps with Flutter and creating data-driven solutions.
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -79,15 +79,19 @@ Building mobile apps with Flutter and creating data-driven solutions.
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Waleed-Elsherbeny&theme=tokyo-night)
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
-![snake gif](https://github.com/M-Waleed-Elsherbeny/M-Waleed-Elsherbeny/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://github.com/M-Waleed-Elsherbeny/M-Waleed-Elsherbeny/blob/output/github-contribution-grid-snake.svg" />
+
+</p>
 
 ---
 
